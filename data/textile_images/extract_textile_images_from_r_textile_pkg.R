@@ -38,20 +38,20 @@ gen_and_save_image = function(
 
 set.seed(2024)
 
-# Generate 100 nominal images
-purrr::map(1:100, ~{
+# Generate 1000 nominal images
+purrr::map(1:1000, ~{
   file_path = sprintf("simulated/nominal/textile_%04d.jpg", .x)
   gen_and_save_image(img_type = "nominal", file_path = file_path)
 })
 
-# Generate 50 local defect images
-purrr::map(1:50, ~{
+# Generate 500 local defect images
+purrr::map(1:500, ~{
   file_path = sprintf("simulated/local/textile_%04d.jpg", .x)
   gen_and_save_image(img_type = "local", file_path = file_path)
 })
 
-# Generate 50 global defect images
-purrr::map(1:50, ~{
+# Generate 500 global defect images
+purrr::map(1:500, ~{
   file_path = sprintf("simulated/global/textile_%04d.jpg", .x)
   gen_and_save_image(img_type = "global", file_path = file_path)
 })

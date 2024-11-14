@@ -1,0 +1,106 @@
+Metric,Value
+Nominal Train Size,10.0
+Accuracy,0.9
+Sensitivity (Recall),0.84
+Specificity,0.96
+Precision,0.9545454545454546
+F1 Score,0.8936170212765957
+AUC,0.9828
+Nominal Train Size,20.0
+Accuracy,0.915
+Sensitivity (Recall),0.85
+Specificity,0.98
+Precision,0.9770114942528736
+F1 Score,0.9090909090909091
+AUC,0.9806999999999999
+Nominal Train Size,30.0
+Accuracy,0.96
+Sensitivity (Recall),0.94
+Specificity,0.98
+Precision,0.9791666666666666
+F1 Score,0.9591836734693877
+AUC,0.9899500000000001
+Nominal Train Size,50.0
+Accuracy,0.975
+Sensitivity (Recall),0.96
+Specificity,0.99
+Precision,0.9896907216494846
+F1 Score,0.9746192893401016
+AUC,0.99605
+Nominal Train Size,60.0
+Accuracy,0.975
+Sensitivity (Recall),0.97
+Specificity,0.98
+Precision,0.9797979797979798
+F1 Score,0.9748743718592965
+AUC,0.9939
+Nominal Train Size,70.0
+Accuracy,0.975
+Sensitivity (Recall),0.97
+Specificity,0.98
+Precision,0.9797979797979798
+F1 Score,0.9748743718592965
+AUC,0.99395
+Nominal Train Size,80.0
+Accuracy,0.975
+Sensitivity (Recall),0.97
+Specificity,0.98
+Precision,0.9797979797979798
+F1 Score,0.9748743718592965
+AUC,0.99395
+Nominal Train Size,90.0
+Accuracy,0.975
+Sensitivity (Recall),0.97
+Specificity,0.98
+Precision,0.9797979797979798
+F1 Score,0.9748743718592965
+AUC,0.99455
+Nominal Train Size,100.0
+Accuracy,0.975
+Sensitivity (Recall),0.97
+Specificity,0.98
+Precision,0.9797979797979798
+F1 Score,0.9748743718592965
+AUC,0.9949000000000001
+Nominal Train Size,120.0
+Accuracy,0.97
+Sensitivity (Recall),0.96
+Specificity,0.98
+Precision,0.9795918367346939
+F1 Score,0.9696969696969697
+AUC,0.9949000000000001
+Nominal Train Size,150.0
+Accuracy,0.97
+Sensitivity (Recall),0.96
+Specificity,0.98
+Precision,0.9795918367346939
+F1 Score,0.9696969696969697
+AUC,0.9945
+Nominal Train Size,200.0
+Accuracy,0.985
+Sensitivity (Recall),0.98
+Specificity,0.99
+Precision,0.98989898989899
+F1 Score,0.9849246231155779
+AUC,0.99205
+Nominal Train Size,250.0
+Accuracy,0.97
+Sensitivity (Recall),0.96
+Specificity,0.98
+Precision,0.9795918367346939
+F1 Score,0.9696969696969697
+AUC,0.9903
+Nominal Train Size,300.0
+Accuracy,0.97
+Sensitivity (Recall),0.96
+Specificity,0.98
+Precision,0.9795918367346939
+F1 Score,0.9696969696969697
+AUC,0.9892
+Nominal Train Size,350.0
+Accuracy,0.97
+Sensitivity (Recall),0.96
+Specificity,0.98
+Precision,0.9795918367346939
+F1 Score,0.9696969696969697
+AUC,0.99355

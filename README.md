@@ -10,9 +10,9 @@ This repository accompanies the paper **"Adapting OpenAI’s CLIP Model for Few-
 
 ### **`data/`**
 Contains images for the five case studies, organized into subfolders according to the labels (`nominal` and `defective`) for each case study:
+- **`extrusion_images/`**: Extrusion profile inspection data (Experiment 2)
 - **`microstructure/`**: Microstructure image data (Experiment 5)
 - **`pan_images/`**: Metallic pan surface inspection data (Experiment 1)
-- **`extrusion_images/`**: Extrusion profile inspection data (Experiment 2)
 - **`pipe_staple/`**: Renault pipe staple dataset for automotive assembly (Experiment 4)
 - **`textile_images/`**: Stochastic textured surfaces (Experiment 3)
 
